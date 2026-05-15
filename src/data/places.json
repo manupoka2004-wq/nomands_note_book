@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Gateway of India",
+    "location": "Mumbai, India",
+    "type": "tourism",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 120000,
+    "lat": 18.9220,
+    "lng": 72.8347,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=18.9220,72.8347",
+    "image": "https://picsum.photos/seed/gateway/800/600",
+    "amenities": ["Photography", "History", "Sea View"]
+  },
+  {
+    "name": "Qutub Minar",
+    "location": "New Delhi, India",
+    "type": "tourism",
+    "price": 600,
+    "rating": 4.7,
+    "reviews": 85000,
+    "lat": 28.5244,
+    "lng": 77.1855,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=28.5244,77.1855",
+    "image": "https://picsum.photos/seed/qutub/800/600",
+    "amenities": ["History", "Architecture", "Park"]
+  },
+  {
+    "name": "Amber Fort",
+    "location": "Jaipur, India",
+    "type": "tourism",
+    "price": 500,
+    "rating": 4.8,
+    "reviews": 45000,
+    "lat": 26.9855,
+    "lng": 75.8513,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=26.9855,75.8513",
+    "image": "https://picsum.photos/seed/amber/800/600",
+    "amenities": ["History", "Elephant Ride", "View"]
+  }
+]

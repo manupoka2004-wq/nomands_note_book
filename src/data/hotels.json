@@ -1,0 +1,54 @@
+[
+  {
+    "name": "The Oberoi Amarvilas",
+    "location": "Agra, India",
+    "type": "hotel",
+    "price": 45000,
+    "rating": 5.0,
+    "reviews": 2400,
+    "lat": 27.1683,
+    "lng": 78.0412,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=27.1683,78.0412",
+    "image": "https://picsum.photos/seed/oberoi/800/600",
+    "amenities": ["Wifi", "Coffee", "Wind", "Tv", "Pool", "Spa"]
+  },
+  {
+    "name": "Taj Lake Palace",
+    "location": "Udaipur, India",
+    "type": "hotel",
+    "price": 55000,
+    "rating": 4.9,
+    "reviews": 1800,
+    "lat": 24.5753,
+    "lng": 73.6800,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=24.5753,73.6800",
+    "image": "https://picsum.photos/seed/tajlake/800/600",
+    "amenities": ["Wifi", "Coffee", "Wind", "Tv", "Pool"]
+  },
+  {
+    "name": "ITC Grand Chola",
+    "location": "Chennai, India",
+    "type": "hotel",
+    "price": 18000,
+    "rating": 4.8,
+    "reviews": 3200,
+    "lat": 13.0102,
+    "lng": 80.2206,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=13.0102,80.2206",
+    "image": "https://picsum.photos/seed/itcgrand/800/600",
+    "amenities": ["Wifi", "Coffee", "Tv", "Pool", "Gym"]
+  },
+  {
+    "name": "The Leela Palace",
+    "location": "Bangalore, India",
+    "type": "hotel",
+    "price": 22000,
+    "rating": 4.9,
+    "reviews": 1500,
+    "lat": 12.9606,
+    "lng": 77.6484,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=12.9606,77.6484",
+    "image": "https://picsum.photos/seed/leela/800/600",
+    "amenities": ["Wifi", "Coffee", "Tv", "Pool", "Garden"]
+  }
+]

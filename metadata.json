@@ -1,0 +1,5 @@
+{
+  "name": "TripMaker",
+  "description": "Secure Ride Booking App with dual OTP verification (Email & SMS), real-time booking, and automated notifications.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"]
+}

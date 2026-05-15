@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - JWT_SECRET=${JWT_SECRET}
+      - GEMINI_API_KEY=${AIzaSyAtnbwhjyCs2qLFtqKDP5jvddtHvdvnKF0}
+      - WEATHER_API_KEY=${f8d1ddf1c5654d479bd143045261602}
+      - STRIPE_SECRET_KEY=${STRIPE_SECRET_KEY}
+    restart: always
+
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+    restart: always
